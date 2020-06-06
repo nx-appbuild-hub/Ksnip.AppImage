@@ -1,0 +1,1 @@
+# Ksnip.AppImage
