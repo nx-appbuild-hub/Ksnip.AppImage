@@ -1,4 +1,4 @@
-SOURCE="https://github.com/ksnip/ksnip/releases/download/continuous/ksnip-1.7.1-continuous-x86_64.AppImage"
+SOURCE="https://github.com/ksnip/ksnip/releases/download/continuous/ksnip-1.7.2-continuous-x86_64.AppImage"
 OUTPUT="Ksnip.AppImage"
 
 
